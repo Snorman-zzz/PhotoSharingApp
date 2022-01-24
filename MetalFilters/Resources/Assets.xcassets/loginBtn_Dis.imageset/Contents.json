@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "loginBtn_Dis.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
