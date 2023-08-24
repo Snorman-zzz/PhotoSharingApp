@@ -1,4 +1,4 @@
-# Photo Sharing Social Media App Project
+# iOS Photo Sharing Social Media App Project
 
 ## The entire photo sharing social media mobile application 
 - including Posting, Liking, Commenting, Explore, Search, Notifications, and more
