@@ -8,5 +8,3 @@ Build the project in Xcode, need compatible devices to access camera
 ## Login info
 E-mail: usernam@email.com
 Password: password
-
-## Accessing content requires VPN in internet restricted countries.
